@@ -1,0 +1,13 @@
+{
+  "name": "exercicios 4.4",
+  "version": "1.0.0",
+  "description": "exercicios 4.4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json ."
+  },
+  "author": "",
+  "license": "ISC"
+}

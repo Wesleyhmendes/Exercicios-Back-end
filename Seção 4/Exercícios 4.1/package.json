@@ -1,0 +1,15 @@
+{
+  "name": "my-scripts",
+  "version": "1.0.0",
+  "description": "Exercícios 4.1",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "bmi": "node bmi.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
